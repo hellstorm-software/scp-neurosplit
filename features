@@ -2,6 +2,7 @@ SCP Neurosplit
 Isometric Creature Collector
 Collect various SCPs and build  your kult. Spread your influence across the world, and shape it how you choose.
 
+Player/Kultists
 Kultist Stats:
 -	Hp
 -	Xp
@@ -34,11 +35,18 @@ Reactions:
 Player Xp:
 -	Get a lootbox for every level up
 -	Dying doesn’t remove any items, but gives xp debt
+-	
 
-
-
-
-
+Skills:
+-	Health
+-	Attack
+-	Crafting
+-	Animal Handling
+-	Mining
+-	Cooking
+-	Agility
+-	Intelligence
+-	Faith
 
 Map:
 -	Node based system
@@ -54,6 +62,11 @@ Node Types
 -	Farming Node
 -	Mining Node
 -	Flooded Node
+-	Academic Node
+-	Fey Node
+-	Militant Node
+-	Arcane Node
+
 
 Minigames:
 
