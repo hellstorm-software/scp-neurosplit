@@ -1,0 +1,56 @@
+SCP Neurosplit
+Isometric Creature Collector
+
+Kultist Stats:
+-	Hp
+-	Xp
+-	Attack
+-	Def
+-	Speed
+-	Reaction
+
+Kultist Types:
+-	Flame
+-	Plant
+-	Water
+-	Ice
+-	Toxic
+-	Anomalous
+-	Paranormal
+-	Biomechanical
+
+Reactions:
+-	Vaporize
+-	Freeze
+-	Sludge
+
+Player Xp:
+-	Get a lootbox for every level up
+-	Dying doesn’t remove any items, but gives xp debt
+
+Kultist Xp:
+-	Small Enchantment Seed – gives 1 xp level
+-	Enchantment Seed – gives 2 xp levels
+-	Mega Enchantment Seed – gives 5 xp levels
+
+Map:
+-	Node based system
+-	When a node reaches level 10 it locks all adjacent nodes at 10 levels behind it
+-	Xp gained in a node by any player will contribute to that nodes xp
+-	Node Types
+o	City Nodes
+
+Dupli-Race:
+-	Group running math minigame
+o	Vertical runner on a straight path with various obstacles that give +/-n amount of points
+o	Players must build up enough points to clear each stage
+-	Agility xp
+
+Time hop:
+-	
+
+Memory Palace
+-	Word search game
+
+
+
