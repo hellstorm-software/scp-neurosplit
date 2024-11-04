@@ -26,6 +26,7 @@ Kultist Xp:
 -	Mega Enchantment Seed – gives 5 xp levels
 
 Reactions:
+-	When an attack hits a target, the target will be marked with the typing of that attack. If the target is then hit with an attack of another typing, it may cause a “reaction”
 -	Vaporize
 -	Freeze
 -	Sludge
@@ -49,13 +50,16 @@ o	Real time town building game
 o	Crafting xp
 
 Node Types
--	
+-	Economic Node
+-	Farming Node
+-	Mining Node
+-	Flooded Node
 
 Minigames:
 
 Kat Café:
 -	Real time pet simulator
--	Animal handling xp
+-	Animal handling xp, intelligence xp
 
 Dupli-Race:
 -	Group running math minigame
@@ -69,7 +73,7 @@ Time hop:
 
 Memory Palace
 -	Word search game
--	Health xp
+-	Health xp, intelligence xp
 
 
 
