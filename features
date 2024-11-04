@@ -20,6 +20,11 @@ Kultist Types:
 -	Paranormal
 -	Biomechanical
 
+Kultist Xp:
+-	Small Enchantment Seed – gives 1 xp level
+-	Enchantment Seed – gives 2 xp levels
+-	Mega Enchantment Seed – gives 5 xp levels
+
 Reactions:
 -	Vaporize
 -	Freeze
@@ -29,10 +34,6 @@ Player Xp:
 -	Get a lootbox for every level up
 -	Dying doesn’t remove any items, but gives xp debt
 
-Kultist Xp:
--	Small Enchantment Seed – gives 1 xp level
--	Enchantment Seed – gives 2 xp levels
--	Mega Enchantment Seed – gives 5 xp levels
 
 Map:
 -	Node based system
@@ -40,6 +41,12 @@ Map:
 -	Xp gained in a node by any player will contribute to that nodes xp
 -	Node Types
 o	City Nodes
+
+Minigames:
+
+Kat Café:
+-	Real time pet simulator
+-	Animal handling xp
 
 Dupli-Race:
 -	Group running math minigame
