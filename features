@@ -35,12 +35,21 @@ Player Xp:
 -	Dying doesn’t remove any items, but gives xp debt
 
 
+
+
+
+
 Map:
 -	Node based system
--	When a node reaches level 10 it locks all adjacent nodes at 10 levels behind it
--	Xp gained in a node by any player will contribute to that nodes xp
--	Node Types
-o	City Nodes
+o	When a node reaches level 10 it locks all adjacent nodes at 10 levels behind it
+o	Xp gained in a node by any player will contribute to that nodes xp
+-	Cities
+o	When a node reaches level 15, a city will form
+o	Real time town building game
+o	Crafting xp
+
+Node Types
+-	
 
 Minigames:
 
