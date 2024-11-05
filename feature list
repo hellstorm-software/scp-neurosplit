@@ -52,6 +52,12 @@ Skills:
 -	Intelligence
 -	Faith
 
+Combat:
+Overworld:
+-	Overworld combat starts as an isometric bullet hell, where the player can fight an opponent directly. 
+-	Once you come into contact with an opponent you will enter a turn based RPG to finish the battle
+o	The turn based elements of combat can be avoided by avoiding melee damage, or with certain armor types that specifically prevent this from being triggered
+
 Map:
 -	Node based system
 o	When a node reaches level 5 it locks all adjacent nodes at 3 levels behind it
